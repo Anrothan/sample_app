@@ -1,0 +1,77 @@
+[33mcommit a96cfcaaf8512878c568a290a07200fd4f765fc8[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Wed Jul 2 18:00:34 2014 -0700
+
+    Add cucumber
+
+[33mcommit fc8edc5a50768168ca3d8d3533cba2eb126a7d25[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Sun Jun 22 15:23:08 2014 -0700
+
+    Add sign-in and sign-out
+
+[33mcommit fb5b9088ac590d58e4ce1a9b1458d196c829b68f[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Sun Jun 22 04:19:05 2014 -0700
+
+    Add sign-in failure response
+
+[33mcommit 3d15ed7aeee1fbdc97ebb2fdf23a2393c12ceae4[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Sun Jun 22 00:40:55 2014 -0700
+
+    Add SSL in production
+
+[33mcommit d6f9713ff2bef0f3c238e3eff3bdacbb09c5dd14[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Sun Jun 22 00:36:56 2014 -0700
+
+    Finish user signup
+
+[33mcommit f076e24c454afd8e4dbb50760fdaddf25c74ac07[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Sat Jun 21 20:17:13 2014 -0700
+
+    Make a basic User model (including secure passwords)
+
+[33mcommit e79d47e40739db8ddd2afa2b2ee3899e148cd47c[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Sat Jun 21 12:36:42 2014 -0700
+
+    Finish layout and routes
+
+[33mcommit 79106f8553b5e35631cc8e0fc938a881f6bbebe4[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Fri Jun 20 19:27:22 2014 -0700
+
+    Add helper
+
+[33mcommit 808819e9e0a4f09faa1cb9fa681ab494643179cb[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Fri Jun 20 00:32:17 2014 -0700
+
+    Add contact page, refactor rspec
+
+[33mcommit 34d4c3d31350d7bee107535c51adfc64bc4d0e2d[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Fri Jun 20 00:08:16 2014 -0700
+
+    Finish static pages
+
+[33mcommit 27714d53d0ac5199ea8233c48f7ab48fa4ce4067[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Thu Jun 19 21:57:25 2014 -0700
+
+    Add a StaticPages controller
+
+[33mcommit 25278a58d18f626c02daf6037bc99df2093eaf16[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Thu Jun 19 00:56:53 2014 -0700
+
+    Improve the README
+
+[33mcommit e3d353b4e63d26be53ef18bed2e46adc5a3074d3[m
+Author: Derek Maffett <derekgmaffett@gmail.com>
+Date:   Wed Jun 18 19:56:29 2014 -0700
+
+    Initial commit
